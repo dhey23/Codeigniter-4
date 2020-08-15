@@ -1,0 +1,307 @@
+/*!
+ * Start Bootstrap - Landing Page v5.0.7 (https://startbootstrap.com/template-overviews/landing-page)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
+ */
+
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 0px;
+  margin-top: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+.nav-item {
+  float: right;
+}
+div.under-slider-wrapper {
+  border-top-width: 4px;
+  border-bottom-width: 4px;
+  border-style: solid;
+  padding: 30px 0;
+  position: relative;
+}
+.under-slider-wrapper {
+  border-color: #3876ae;
+}
+.under-slider-wrapper {
+  background-color: #3389d7;
+}
+.card {
+  margin: 10px 10px 10px 10px;
+  padding: 25px;
+}
+.display-4 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+#mainpage a {
+  padding: 10px;
+}
+.under-slider-wrapper {
+  border-top-width: 4px;
+  border-bottom-width: 4px;
+  border-style: solid;
+  padding: 30px 0;
+  position: relative;
+}
+.under-slider-wrapper {
+  border-color: #3876ae;
+}
+.under-slider-wrapper {
+  background-color: #3389d7;
+}
+
+header.masthead {
+  position: relative;
+  background-color: #343a40;
+  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+header.masthead .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
+
+header.masthead h1 {
+  font-size: 2rem;
+}
+
+@media (min-width: 768px) {
+  header.masthead {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+  }
+  header.masthead h1 {
+    font-size: 3rem;
+  }
+}
+
+.showcase .showcase-text {
+  padding: 3rem;
+}
+
+.showcase .showcase-img {
+  min-height: 30rem;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .showcase .showcase-text {
+    padding: 7rem;
+  }
+}
+
+.features-icons {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.features-icons .features-icons-item {
+  max-width: 20rem;
+}
+
+.features-icons .features-icons-item .features-icons-icon {
+  height: 7rem;
+}
+
+.features-icons .features-icons-item .features-icons-icon i {
+  font-size: 4.5rem;
+}
+
+.features-icons .features-icons-item:hover .features-icons-icon i {
+  font-size: 5rem;
+}
+
+.testimonials {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.testimonials .testimonial-item {
+  max-width: 18rem;
+}
+
+.testimonials .testimonial-item img {
+  max-width: 12rem;
+  box-shadow: 0px 5px 5px 0px #adb5bd;
+}
+
+.call-to-action {
+  position: relative;
+  background-color: #343a40;
+  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.call-to-action .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
+.footer-wrapper {
+  background-color: #323232;
+  overflow: hidden;
+  padding-top: 25px;
+}
+.footer-wrapper table th {
+  color: #a5a5a5;
+}
+#last-minute-package-widget-2 {
+  margin-bottom: 25px;
+}
+.recent-post-widget img {
+  width: 55px;
+  height: 55px;
+  border-color: #969696;
+}
+.textwidget {
+  color: #a5a5a5;
+  font-size: 13px;
+}
+.custom-sidebar-title {
+  color: #3389d7;
+  font-size: 22px;
+}
+.gdl-recent-post-widget {
+  padding-top: 10px;
+}
+.recent-post-widget-title a {
+  font-size: 19px;
+  color: #ffffff;
+}
+span.discount-text {
+  font-size: 11px;
+  color: #e9513c;
+  font: bold;
+}
+span.discount-price {
+  font-size: 11px;
+  color: #e9513c;
+}
+span.normal-price {
+  font-size: 11px;
+  color: #969696;
+}
+div.copyright-left {
+  color: #fff;
+  font-size: 15px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  font-family: Droid Sans;
+  font-style: italic;
+}
+h3.gdlr-core-title-item-title {
+  font-size: 32px;
+  color: #383838;
+  text-align: center;
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-top: 80px;
+}
+div.gdlr-core-text-box-item {
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-bottom: 45px;
+  text-align: center;
+}
+div.gdlr-core-text-box-item p {
+  margin-bottom: 20px;
+}
+div.gdlr-core-text-box-item p a {
+  color: #ea5318;
+}
+div.tourmaster-tour-category-grid-2 {
+  margin-bottom: 34px;
+  padding-left: 17px;
+  padding-right: 17px;
+}
+div.gdlr-core-pbf-wrapper {
+  padding-top: 25px;
+}
+#mainpage {
+  text-align: center;
+}
+.card-body {
+  font-size: 18px;
+  font-family: Arca Majora Bold;
+}
+.nav-item {
+  float: left;
+}
+
+/*-contact style-*/
+body {
+}
+.contact-form {
+  background: #fff;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  width: 70%;
+}
+.contact-form .form-control {
+  border-radius: 1rem;
+}
+.contact-image {
+  text-align: center;
+}
+.contact-image img {
+  border-radius: 6rem;
+  width: 11%;
+  margin-top: -3%;
+  transform: rotate(29deg);
+}
+.contact-form form {
+  padding: 14%;
+}
+.contact-form form .row {
+  margin-bottom: -7%;
+}
+.contact-form h3 {
+  margin-bottom: 8%;
+  margin-top: -10%;
+  text-align: center;
+  color: #0062cc;
+}
+.contact-form .btnContact {
+  width: 50%;
+  border: none;
+  border-radius: 1rem;
+  padding: 1.5%;
+  background: #dc3545;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}
+.btnContactSubmit {
+  width: 50%;
+  border-radius: 1rem;
+  padding: 1.5%;
+  color: #fff;
+  background-color: #0062cc;
+  border: none;
+  cursor: pointer;
+}
